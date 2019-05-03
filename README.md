@@ -1,3 +1,12 @@
+One of the major broadcasting media company in US has won the bid to
+broadcast the 2012-Olympics event. For this event, the company would like
+to sell their ad-slots & online ad-banners, in much advance. The
+management has instructed the sales representatives (Champions) to
+block the slots for the different sponsors & different events in Olympics.
+In order to track the pipeline of the deals at different stages, the
+management would like to see a summary as well as a detailed report by
+probability, client and champion.
+
 Variable name:Description
 
 Account Name: Client Name
